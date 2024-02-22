@@ -1,4 +1,4 @@
-![image](https://github.com/dhuy241201/dhuy241201/assets/130017843/54f22cc7-2c04-4ef5-8eb4-df3f0df919b2)![image](https://github.com/dhuy241201/dhuy241201/assets/130017843/322a0861-1d2c-4343-bfa4-4e9b6353307f)# Hi I'm Huy ❄
+#Hi I'm Huy ❄
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
