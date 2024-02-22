@@ -1,4 +1,9 @@
-#Hi I'm Huy ❄
+# Hi I'm Huy ❄
+Friendly and funny 😋 <br/>
+Passionate about learning 📖 <br/>
+Enjoy developing 💖
+
+# Technical skill
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
